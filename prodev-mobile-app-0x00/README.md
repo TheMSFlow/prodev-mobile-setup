@@ -53,3 +53,5 @@ Join our community of developers creating universal apps.
 ------
 
 # What happens when I reset the project?
+It asks if I want to move the files to an app-example folder. 
+I reply 'Yes' and it moves it but doesn't delete my original app directory.
