@@ -18,5 +18,5 @@
 
 ## Status
 
-✅ Expo Go is installed and running  
-✅ Logged in and ready to connect to local development server
+Expo Go is installed and running  
+Logged in and ready to connect to local development server
